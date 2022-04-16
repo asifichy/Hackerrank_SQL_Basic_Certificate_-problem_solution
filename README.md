@@ -1,0 +1,2 @@
+# Hackerrank_SQL_Basic_Certificate_-problem_solution
+Hackerrank SQL Basic certificate problems solution
